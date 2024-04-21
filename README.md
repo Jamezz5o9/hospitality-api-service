@@ -25,6 +25,7 @@ git clone <repository-url>
 cd api-service
 mvn clean install
 mvn spring-boot:run
+```
 
 ## Service Startup
 
