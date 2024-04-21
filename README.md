@@ -47,7 +47,7 @@ All sensitive endpoints require a staff member's UUID for authentication. This U
 
 ## Database Configuration
 
-This project uses an H2 in-memory database for simplicity and ease of development. For production environments, you might consider switching to a more robust database system like MySQL or PostgreSQL.
+This project uses an H2 in-memory database for simplicity and ease of development.
 
 ## Populating the Database
 
